@@ -1,4 +1,4 @@
 # 4IZ278
 Školní apka
 
-Pokus. toto by mělo být součástí pouze branch pokus.
+Školní aplikace, jejímž cílem je prokázat znalosti PHP, z tohoto důvodu je řešena bezpečnost pouze u malého množství formulářů.
